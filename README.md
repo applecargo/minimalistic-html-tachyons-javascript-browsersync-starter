@@ -5,6 +5,7 @@ minimalistic-html-tachyons-javascript-browsersync-starter
 
 ```
 git clone https://github.com/applecargo/minimalistic-html-tachyons-javascript-browsersync-starter.git
+cd minimalistic-html-tachyons-javascript-browsersync-starter
 npm install -g browser-sync
 npm run bs
 ```
