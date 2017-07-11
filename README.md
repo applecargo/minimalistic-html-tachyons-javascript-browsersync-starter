@@ -3,7 +3,7 @@ minimalistic-html-tachyons-javascript-browsersync-starter
 
 **repo is on 'gh-pages' branch.**
 
-[DEMO](applecargo.github.io/minimalistic-html-tachyons-javascript-browsersync-starter)
+[DEMO](https://applecargo.github.io/minimalistic-html-tachyons-javascript-browsersync-starter)
 
 ## Introductory note
 
